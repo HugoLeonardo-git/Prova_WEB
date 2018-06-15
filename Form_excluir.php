@@ -15,10 +15,10 @@
 		<form>
 			
 			<label>
-				<input type = "" name = "" required = "required" />
+				<input type = "" name = "" />
 			</label>
 			
-			<input type = "submit" name = "ok" value = "" required = "required" />
+			<input type = "submit" name = "ok" value = ""/>
 		
 		</form>
 		
